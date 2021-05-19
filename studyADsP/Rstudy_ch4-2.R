@@ -131,3 +131,4 @@ p$yday
 start <- as.Date("2014-12-01")
 end <- as.Date("2014-12-25")
 seq(from=start, to=end, by=1)
+
